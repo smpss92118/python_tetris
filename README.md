@@ -1,1 +1,1 @@
-# cpp_tetris
+# python_tetris
